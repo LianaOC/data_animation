@@ -1,4 +1,4 @@
-import { Application } from 'https://cdn.jsdelivr.net/npm/@splinetool/runtime@0.9.0/dist/runtime.js';
+import { Application } from 'https://cdn.jsdelivr.net/npm/@splinetool/runtime@0.9.82/dist/runtime.js';
 
 const canvas = document.getElementById('canvas3d');
 const app = new Application(canvas);
